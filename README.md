@@ -52,7 +52,7 @@ Before running the application first install the following dependencies.
 
 Brought to you by odhissm@gmail.com
 
----
+---.
 
 ## License
 

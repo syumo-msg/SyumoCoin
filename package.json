@@ -1,0 +1,23 @@
+{
+  "name": "syumocoin",
+  "version": "1.0.0",
+  "description": "This repository is for managing Syumo Coin. The application runs on Ethereum-compatible block chains.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syumo-msg/SyumoCoin.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/syumo-msg/SyumoCoin/issues"
+  },
+  "homepage": "https://github.com/syumo-msg/SyumoCoin#readme"
+}
